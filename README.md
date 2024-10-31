@@ -6,7 +6,7 @@ A simple Netty-based IRC Library.
 
 A simple Netty-based Java IRC Library.
 
-This is a simple IRC API based on Netty, which allows developers to quickly create an IRC system. You only need to
+This is a simple IRC Library based on Netty, which allows developers to quickly create an IRC system. You only need to
 create objects and start them.
 
 ## Developers
