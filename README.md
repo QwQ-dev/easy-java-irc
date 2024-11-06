@@ -11,7 +11,7 @@ create objects and start them.
 
 ## Developers
 
-- [**QwQ-dev / 2000000**](https://github.com/QwQ-dev)
+- [**QwQ-dev**](https://github.com/QwQ-dev)
 - [**InkerBot**](https://github.com/InkerBot)
 
 ## Preparation Before Starting
